@@ -13,3 +13,9 @@ def send_event(event):
         json=event,
         headers=headers
     )
+{
+  "type": "service_account",
+  "project_id": "juniper-poc-project",
+  "private_key_id": "a1b2c3d4e5f6g7h8i9j0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCl...\n-----END PRIVATE KEY-----\n"
+}
