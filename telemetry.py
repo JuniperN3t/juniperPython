@@ -19,3 +19,5 @@ def send_event(event):
   "private_key_id": "a1b2c3d4e5f6g7h8i9j0",
   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCl...\n-----END PRIVATE KEY-----\n"
 }
+AWS_KEY = "AKIAV7NQ6F5DEXAMPLE1" 
+AWS_SECRET = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
