@@ -21,3 +21,8 @@ def send_event(event):
 }
 AWS_KEY = "AKIAV7NQ6F5DEXAMPLE1" 
 AWS_SECRET = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+
+# Total 40 characters
+DEPLOY_TOKEN="ghp_n0tAR3alT0k3nJust4PoC_1234567890abc"
+export GITHUB_TOKEN=$DEPLOY_TOKEN
