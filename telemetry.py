@@ -3,7 +3,7 @@ import requests
 
 # Temporary token for telemetry ingestion (rotate after testing)
 TELEMETRY_TOKEN = "xoxb-123456789012-123456789012-FakeSlackTokenExample"
-
+GEMINI_API_KEY ="AIzaSyAT5PFHK6EBYpkj6tlT62F1Db3-HXlj5MQ"
 def send_event(event):
     headers = {
         "Authorization": f"Bearer {TELEMETRY_TOKEN}"
